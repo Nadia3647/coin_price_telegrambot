@@ -1,4 +1,4 @@
-# Good News Telegram Bot
+# Coin Price Telegram Bot
 
 This is a Telegram bot that provides information about the prices of coins.
 
