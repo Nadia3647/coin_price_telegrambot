@@ -12,12 +12,6 @@ This is a Telegram bot that provides information about the prices of coins.
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-- Java JDK 8 or above
-- Maven
-- MySQL Server
-
 
 ## Usage
 
@@ -31,5 +25,5 @@ These instructions will help you get a copy of the project up and running on you
 - [Spring Boot](https://spring.io/projects/spring-boot) - The framework used
 - [Telegram Bot API](https://core.telegram.org/bots/api) - Used to interact with the Telegram Bot
 - [Jsoup](https://jsoup.org/) - Used to fetch coin prices
-- [PostgreSQL] - Used for data storage
+- PostgreSQL - Used for data storage
 
